@@ -22,14 +22,16 @@ Implementación con **Jerarquía de Recursos** para prevenir *Deadlocks* (Interb
 * **Estado:** ✅ Resuelto (Sin Deadlocks)
 * **Visualización:**
 
-![Filosofos Demo](filosofos.gif)
+
+![Filosofos Demo](Filosofos.gif)
+
 
 ## 3. Productor - Consumidor 🏭
 Simulación de buffer acotado (Cola Circular) con manejo de estados de espera (Empty/Full).
 * **Estado:** ✅ Resuelto
 * **Visualización:**
 
-![Productor Demo](productor.gif)
+![Productor Demo](Productor.gif)
 
 ---
-**Autor:** [Tu Nombre] - Aspiring SDE
+**Autor:** [Daniel Gaitan] -
